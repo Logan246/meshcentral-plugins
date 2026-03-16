@@ -1,0 +1,10 @@
+{
+  "win-info": {
+    "name": "Win-Info",
+    "description": "Windows ve Office Lisans Bilgileri",
+    "version": "1.0.0",
+    "author": "SeninAdın",
+    "path": "win-info/win-info.json",
+    "changelogUrl": "https://github.com/KULLANICI_ADIN/REPOM/blob/main/win-info/win-info.js"
+  }
+}

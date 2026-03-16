@@ -1,0 +1,8 @@
+{
+  "name": "Win-Info",
+  "shortName": "win-info",
+  "version": "1.0.0",
+  "author": "Ylianst",
+  "description": "Windows ve Office lisans bilgilerini gösterir.",
+  "meshcentral-version": ">=0.7.0"
+}
