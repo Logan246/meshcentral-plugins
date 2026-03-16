@@ -1,9 +1,17 @@
 {
   "win-info": {
     "name": "Win-Info",
-    "description": "Windows ve Office Lisans Bilgileri",
+    "shortName": "win-info",
     "version": "1.0.0",
+    "description": "Windows ve Office Lisans Bilgileri",
     "author": "Logan246",
-    "path": "win-info/win-info.json"
+    "homepage": "https://github.com/Logan246/meshcentral-plugins",
+    "changelogUrl": "https://raw.githubusercontent.com/Logan246/meshcentral-plugins/main/win-info/win-info.js",
+    "configUrl": "https://raw.githubusercontent.com/Logan246/meshcentral-plugins/main/win-info/win-info.json",
+    "downloadUrl": "https://github.com/Logan246/meshcentral-plugins/archive/refs/heads/main.zip",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Logan246/meshcentral-plugins.git"
+    }
   }
 }
