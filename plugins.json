@@ -3,8 +3,7 @@
     "name": "Win-Info",
     "description": "Windows ve Office Lisans Bilgileri",
     "version": "1.0.0",
-    "author": "Admin",
-    "path": "win-info/win-info.json",
-    "changelogUrl": "https://github.com/Logan246/meshcentral-plugins/blob/main/win-info/win-info.js"
+    "author": "Logan246",
+    "path": "win-info/win-info.json"
   }
 }
